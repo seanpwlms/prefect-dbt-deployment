@@ -1,0 +1,6 @@
+prefect==3.0.0rc16
+prefect-dbt==0.6.0rc2
+prefect-github==0.3.0rc2
+dbt-duckdb==1.8.3
+google-auth==2.34.0
+duckdb==1.0.0
