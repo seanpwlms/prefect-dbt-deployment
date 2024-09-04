@@ -2,7 +2,7 @@
 
 🚨 Work in progress
 
-This repository contains a demo Prefect flow that clones a dbt project and runs a dbt Core commands as Prefect tasks. 
+This repository contains a demo Prefect flow that clones a dbt project and runs dbt Core commands as Prefect tasks. 
 
 The flow at `duckdb-flow.py` clones a fork of dbt Labs' Jaffle Shop example, but with duckdb so it doesn't require connecting to a data warehouse.  
 
